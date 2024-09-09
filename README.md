@@ -42,11 +42,3 @@ This program was developed by **M.Ye. Kotlubaiev** under the supervision of **O.
 2. **Execution**: Run the executable file to start the virtual laboratory.
 3. **Removal**: To remove the program, simply delete the files.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **M.Ye. Kotlubaiev** - Developer
-- **O.I. Lepikhov** - Project Supervisor
