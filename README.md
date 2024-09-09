@@ -33,7 +33,7 @@ This program was developed by **M.Ye. Kotlubaiev** under the supervision of **O.
 ## Technical Details
 
 - **Programming Language**: Borland C++ Builder
-- **Program Size**: Less than 5 MB
+- **Program Size**: Less than 6 MB
 - **Compatibility**: The program is portable, does not require installation, and runs on any operating system.
 
 ## Installation and Usage
